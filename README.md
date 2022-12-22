@@ -164,7 +164,7 @@ Exception in thread "main" java.lang.RuntimeException: Input and output extensio
 ### Validation that input file path exists
 ```
 ✗ java -cp sujan-cmpe-202.jar com.sujan.Main input.csv output/output.csv
-Exception in thread "main" java.lang.RuntimeException: Input path does not exist
+Exception in thread "main" java.lang.RuntimeException: Input path does not exist.
 ```
 
 ## Steps to run the code
