@@ -1,7 +1,6 @@
 ![developed-by-sujan-rao-chikkela](https://user-images.githubusercontent.com/27505090/205564012-17236aea-2a8c-41ae-ab1e-7969bbb9e351.svg)
 
 # CMPE-202 Individual Project
-## Sujan Rao Chikkela - 015961062
 
 
 ## Usage
